@@ -1,7 +1,7 @@
 jjTagDesc
 =========
 
-An emurator of `git describe --tags` on the DVCS [Jujutsu](https://martinvonz.github.io/jj/) ( [github.com/martinvonz/jj](https://github.com/martinvonz/jj) )
+An emulator of `git describe --tags` on the DVCS [Jujutsu](https://martinvonz.github.io/jj/) ( [github.com/martinvonz/jj](https://github.com/martinvonz/jj) )
 
 It reads and parses the output of `jj log --no-graph -r "latest(tags())::"`
 
